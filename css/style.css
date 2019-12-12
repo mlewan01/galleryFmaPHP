@@ -1,0 +1,54 @@
+.alert {
+	text-align: center;
+	color: red;
+}
+#body {
+	
+}
+#menu {
+	float: left;
+	display: inline;
+}
+
+#logo {
+	float: right;
+	padding-right: 15px;
+}
+#header {
+	background: #f9f9f9;
+	border: 1px solid #f0f0f0;
+	height: 80px;
+}
+#content {
+	padding: 24px;
+}
+#foot {
+	clear: both;
+	background: #f9f9f9;
+	border: 1px solid #f0f0f0;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	
+}
+.thumbnail {
+	width: 13%;
+	min-width: 168px;
+	height: 170px;
+	padding: 4px;
+	margin: 5px;
+	text-align: center;
+	float: left;
+	border: 1px solid #dedede;
+	display: inline-block;
+}
+.thumbnail img {
+	border: 1px solid #dedede;
+	box-shadow: 0px 0px 3px #333;
+}
+.image {
+	min-height: 155px;
+}
+.title {
+	
+}
